@@ -5028,7 +5028,7 @@
   (symbol (lib_id "PCM_4ms_Resistor:0R_0603") (at 86.36 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a2f64da6-58c5-4af9-8342-f581179c3d2f)
-    (property "Reference" "R6" (at 86.36 140.97 90)
+    (property "Reference" "R6" (at 86.36 143.51 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0R_0603" (at 86.36 148.59 90)
